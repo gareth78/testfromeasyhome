@@ -48,7 +48,7 @@
         "deviceId": 528,
         "profileId": 49246,
         "learnmode": {
-          "image": "/drivers/rgbw_cct_light/assets/learnmode.svg",
+          "image": "/drivers/rgbw_cct_light/assets/icon.svg",
           "instruction": {
             "en": "Press the button on your device five times to reset your light."
           }

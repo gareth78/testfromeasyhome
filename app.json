@@ -1,0 +1,63 @@
+{
+  "id": "com.sunricher.easyhome.zigbee",
+  "version": "1.0.0",
+  "compatibility": ">=1.5.0",
+  "sdk": 2,
+  "name": {
+    "en": "EasyHome ZigBee"
+  },
+  "tags": {
+    "en": ["EasyHome", "EasyHome ZigBee" ,"Sunricher"]
+  },
+  "description": {
+    "en": "Support for Sunricher ZigBee Devices."
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": [
+    "homey:wireless:zigbee"
+  ],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Sunricher",
+    "email": "maginawin@163.com"
+  },
+  "drivers": [
+    {
+      "id": "rgbw_cct_light",
+      "name": {
+        "en": "RGBW CCT Light"
+      },
+      "class": "light",
+      "capabilities": [
+        "light_saturation",
+        "light_temperature",
+        "dim",
+        "light_hue",
+        "onoff"
+      ],
+      "zigbee": {
+        "manufacturerName": "Sunricher",
+        "productId": [
+          "RGBW-CCT"
+        ],
+        "deviceId": 528,
+        "profileId": 49246,
+        "learnmode": {
+          "image": "/drivers/rgbw_cct_light/assets/learnmode.svg",
+          "instruction": {
+            "en": "Press the button on your device five times to reset your light."
+          }
+        }
+      },
+      "images": {
+        "large": "/drivers/rgbw_cct_light/assets/images/large.png",
+        "small": "/drivers/rgbw_cct_light/assets/images/small.png"
+      }
+    }
+  ]
+}

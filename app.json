@@ -50,7 +50,7 @@
         "learnmode": {
           "image": "/drivers/rgbw_cct_light/assets/icon.svg",
           "instruction": {
-            "en": "Press the button on your device five times to reset your light."
+            "en": "The device needs to be in pairing mode to be added. \n\nIf the device if slowly flashing when the device powered on, it means the device is already in pairing mode. \n\nIf the device is not in pairing mode, press the reset button on the device 5 times or repeatedly power off and then power on 5 times to make the device into pairing mode. \nThe pairing mode generally lasts for 15 seconds after each power on. Re-power the device to enter pairing mode again."
           }
         }
       },

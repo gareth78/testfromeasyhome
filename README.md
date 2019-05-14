@@ -41,6 +41,6 @@ You must install this App before adding the device.
   maginawin@163.com
 
 * Report an issue  
-  https://github.com/Sunricher/HomeyEasyHomeZigBee/issues
+https://github.com/easyhomesrc/Homey_EasyHomeZigBee/issues
 
 

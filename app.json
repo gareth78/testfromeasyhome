@@ -7,10 +7,10 @@
     "en": "EasyHome ZigBee"
   },
   "tags": {
-    "en": ["EasyHome", "EasyHome ZigBee" ,"Sunricher"]
+    "en": ["EasyHome", "EasyHome ZigBee"]
   },
   "description": {
-    "en": "Support for Sunricher ZigBee Devices."
+    "en": "Support for ZigBee Devices."
   },
   "category": [
     "lights"
@@ -23,7 +23,7 @@
     "small": "/assets/images/small.png"
   },
   "author": {
-    "name": "Athom EasyHome",
+    "name": "EasyHome",
     "email": "maginawin@163.com"
   },
   "drivers": [

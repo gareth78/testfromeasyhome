@@ -1,6 +1,6 @@
 # EasyHome ZigBee
 
-This App adds support for Sunricher ZigBee Devices to Homey.  
+This App adds support for ZigBee Devices to Homey.  
 
 You must install this App before adding the device.
 

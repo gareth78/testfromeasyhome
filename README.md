@@ -6,9 +6,9 @@ You must install this App before adding the device.
 
 ## What Works
 
-* Connecting lights
+* Connecting ZigBee lights
 
-* Control lights
+* Control ZigBee lights
 
 ## Issues
 
@@ -18,9 +18,7 @@ You must install this App before adding the device.
 
 * Make sure the device is in pairing mode.
 
-* Restart this App.  
-
-  - Homey -> More -> Apps -> This App -> Settings (Top right corner) -> Restart App
+* Restart this App. (Homey -> More -> Apps -> This App -> Settings (Top right corner) -> Restart App)  
 
 * Restart the Homey device and Homey App.  
 
@@ -30,10 +28,10 @@ You must install this App before adding the device.
 
 * Steps to get the information.  
 
-  1. Homey App -> Devices. 
-  2. Long press the Unknown Device.
-  3. Settings (Top right corner) -> Advanced settings.
-  4. Provide `[Manufacturere ID, Product ID, Device ID, Profile ID]` to us.
+  > 1. Homey App -> Devices. 
+  > 2. Long press the Unknown Device.
+  > 3. Settings (Top right corner) -> Advanced settings.
+  > 4. Provide `[Manufacturere ID, Product ID, Device ID, Profile ID]` to us.
 
 ## Contact Us
 
